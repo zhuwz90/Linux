@@ -1,0 +1,21 @@
+colorscheme desert	"设置配色
+
+set nocompatible	"关闭vim一致性原则
+set number	"显示行号
+set ruler	"设置在编辑过程中右下角显示光标的行列信息
+
+"设置C/C++方式自动对齐
+set autoindent
+set cindent
+
+"开启语法高亮
+syntax enable
+syntax on
+
+set ignorecase	"设置搜索时忽略大小写
+
+set tabstop=4	"设置tab宽度
+
+set shiftwidth=4	"设置自动对齐空格数
+
+set expandtab	"将tab自动转换为空格

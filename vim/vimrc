@@ -19,3 +19,5 @@ set tabstop=4	"设置tab宽度
 set shiftwidth=4	"设置自动对齐空格数
 
 set expandtab	"将tab自动转换为空格
+
+set mouse=a 	"使用鼠标功能"
